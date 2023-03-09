@@ -1,12 +1,8 @@
-**[rsschool-cv]()**
+# Shynggys Khomar
 
 ---
 
-#Shynggys Khomar
-
----
-
-#My contact Info
+# My contact Info
 
 ---
 
@@ -18,7 +14,10 @@
 
 ---
 
-#About Me
+# About Me
+
+---
+
 From the 7th grade, I really liked to study technical subjects. During my school years, I actively began to study chemistry and eventually became a member of Kazakh National team at international olympiads.
 
 After leaving school, I realized that chemistry was not really for me. Because it became too boring with memorization, repeated stuff. By nature I am very creative person, and love to build new things. So when I entered Nazarbayev University, I decided to try programming since it always excited me in school. In my first year of study, I realized that I fell in love with programming, because it was my like my little corner where nobody could find me, where hours fly by like minutes and I place where I could reach my full potential of creativity.
@@ -29,7 +28,7 @@ Having a break gave me incredible experience and some ideas about what I want to
 
 ---
 
-#Skills
+# Skills
 
 - HTML5,CSS3
 - JavaScript Fundamentals
@@ -58,7 +57,7 @@ function XO(str) {
 
 ---
 
-#Courses
+# Courses
 
 - CS50: Computer Science Courses and Programs from Harvard
 - CS50's Web Programming with Python and JavaScript
@@ -69,7 +68,7 @@ function XO(str) {
 
 ---
 
-#Languages
+# Languages
 
 - English B2
 - Russian C2

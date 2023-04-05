@@ -31,14 +31,17 @@ Having a break gave me an incredible experience and great ideas about what I wan
 
 # Skills
 
-- HTML5,CSS3
-- JavaScript Fundamentals
+- HTML5,CSS3,SASS
+- JavaScript advanced
+- Codewars
 - Figma basics
 - Git, GitHub
 - VS code
 - Python Fundamentals
 - C basics
 - Data structures and alghorithms in C, JS
+- React 
+- DOM
 
 ---
 
@@ -59,13 +62,13 @@ function XO(str) {
 ---
 
 # Courses
-
 - CS50: Computer Science Courses and Programs from Harvard
 - CS50's Web Programming with Python and JavaScript
 - freeCodeCamp: JavaScript Algorithms and Data Structures
 - Udemy: The Complete JavaScript Course 2023(Jonas Schmedtmann)
 - CS50 at Nazarbayev University
 - Python Crash Course, 2nd Edition (Eric Matthes)
+- !RS school JS programming bootcamp
 
 ---
 
